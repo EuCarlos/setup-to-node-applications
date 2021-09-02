@@ -1,4 +1,4 @@
-# Setup to Node Applcations
+# Setup to Node Applications
 Standardized setup for my fastest node.js applications
 
 - [x] .gitignore

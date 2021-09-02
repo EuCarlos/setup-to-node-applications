@@ -1,0 +1,11 @@
+{
+  "name": "setup-to-node-applications",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EuCarlos/setup-to-node-applcations.git",
+  "author": "Carlos Alves <carlosalves369m@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
