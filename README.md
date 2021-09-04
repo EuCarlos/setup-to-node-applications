@@ -8,5 +8,4 @@ Standardized setup for my fastest node.js applications
 -   [x] Prettier
 -   [x] EditorConfig
 -   [x] Jest
--   [ ] Babel
--   [ ] Dotenv
+-   [x] Dotenv

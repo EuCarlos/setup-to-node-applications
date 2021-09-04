@@ -1,5 +1,6 @@
 import express, { response } from 'express'
 import '@controllers/UserController'
+require("dotenv").config()
 
 const app = express()
 
@@ -8,5 +9,5 @@ app.get('/', (req, response) => {
 })
 
 app.listen(3333, () => {
-    console.log("🔥 Server is running in PORT 3333")
+    console.log(`🔥 Server is running in PORT 3333 - ${process.env.TYPE}`)
 })
